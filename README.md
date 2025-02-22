@@ -1,2 +1,1 @@
-# Sofle_rev1_QMK
-Custom Sofle QMK Config
+# Sofle RGB rev1 Custom QMK Config
